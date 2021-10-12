@@ -1,0 +1,12 @@
+# VSCode のソースフォーマッターの動作指定ファイル
+# このファイルは utf-8 でエンコードすること
+
+# デフォルト設定
+BasedOnStyle: Google
+
+# 1行の最大文字数(0なら無制限）
+ColumnLimit: 0
+
+# 行末コメントの位置を揃える
+AlignTrailingComments: false
+SpacesBeforeTrailingComments: 1
